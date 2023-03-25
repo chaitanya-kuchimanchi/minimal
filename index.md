@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Machine Learning Project 1 - Identifying Objects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This model will help the people identify the objects through their mobile. User can open the app that default to the mobile camera, upon taking the picture model will identify the name of the objects in the picture.
 
 ## Header 2
 
